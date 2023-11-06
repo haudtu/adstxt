@@ -1,1 +1,12 @@
 mgid.com, 818441, DIRECT, d4c29acad76ce94f
+krushmedia.com, AJxF6R574a9M6CaTvK, RESELLER
+digimedllc.com, T3CuGr574nI3eQCxtp, RESELLERconversantmedia.com, 41784, RESELLER, 03113cd04947736d
+sharethrough.com, j0nru1gr, RESELLER, d53b998a7bd4ecd2
+video.unrulymedia.com, 2736329702851206590, RESELLER
+lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
+Media.net, 8CUT87EOU, DIRECT
+Xapads.com, 145030, RESELLER
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
+lijit.com, 224984, DIRECT, fafdf38b16bf6b2b
+Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
